@@ -6,7 +6,7 @@ Simple library to get name of month (full or short form) or number of month in I
 
 Download and install library:
 ```go
-go get github.com/intaen/go-time
+go get github.com/intaen/go-month
 ```
 
 ## Import
